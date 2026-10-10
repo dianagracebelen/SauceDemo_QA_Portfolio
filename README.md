@@ -32,11 +32,11 @@ Six test cases were executed to verify the login functionality. All six test cas
 
 No confirmed defects were identified during the executed tests.
 
-## Project Files
-- `01_Test_Planning/` — Test planning documentation and test scope
-- `02_Test_Scenario_Cases_Execution/` — Test cases and execution results
-- `03_Summary_Report/` — Test summary report
-- `Screenshots/` — Test execution evidence
+## Test Artifacts
+- [Test Plan](01_Test_Planning/SauceDemo_Test_Planning.docx)
+- [Test Cases and Execution Results](02_Test_Scenario_Cases_Execution/SauceDemo_Testing.xlsx)
+- [QA Test Summary Report](03_Summary_Report/)
+- [Test Execution Evidence](Screenshots/)
 
 ## Limitations
 Testing was limited to login authentication. Other website features and workflows were not tested.
